@@ -1,0 +1,9 @@
+{
+  "version" : "1.0",
+  "author" : "pat man",
+  "description" : "adds a silly little line to opengl20.config that  removes opacity form tsarbound!\n\n[b]This will NOT work if loaded through the steam workshop you NEED to put it into your mods folder!!![/b]\n\nits surprisingly a lot more playable than i expected\n\n",
+  "name" : "pat_removetransparency",
+  "friendlyName" : "remove transparency",
+  "steamContentId" : "2970022134",
+  "link" : "steam://url/CommunityFilePage/2970022134"
+}
